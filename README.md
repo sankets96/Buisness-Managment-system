@@ -1,6 +1,6 @@
 # Business Management Web Application : <br>
 
-![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
+![home (2)](https://github.com/sankets96/Buisness-Managment-system/blob/master/screenshot/home.png)
 
 
 
@@ -42,7 +42,7 @@
      
 3. Make sure you are in the Business_Management_Project directory. <br>
 
-![packageExplorer](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/3ea1eb7f-8e49-4b76-96e4-798b6b8e8715)
+![packageExplorer]()
 
 
 4.Configure the database connection is application.properties (check the Database section for more information). <br>
@@ -84,16 +84,6 @@ server.port=2330[Optional] <br>
 ## Preview :
 
 
-#### Products 
-
-![products (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/0496f63a-f30c-4108-91a7-966bd37b2b54)
-
-
-#### Location 
-
-![locateus](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/30e40d74-d2f0-48cb-91b3-ea515f12c498)
-
-
 
 #### Login Page
 
@@ -104,14 +94,12 @@ server.port=2330[Optional] <br>
 
 #### AdminPanel
 
-![adminpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/b89aa5ee-3f7f-4145-b063-048729e7fbe9)
+![adminpanel](https://github.com/sankets96/Buisness-Managment-system/blob/master/screenshot/admin.png)
 
 
 #### UserPanel 
 
 ![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
 
-
-### Exception page
-
-![exceptionPage](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/4349a429-61ff-4ecd-a463-2900874e1ea5)
+#### About
+![about](https://github.com/sankets96/Buisness-Managment-system/blob/master/screenshot/about.png)
